@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='https://jhc.sjtu.edu.cn/about/overview/'>The John Hopcroft Center for Computer Science</a>@<a href='https://en.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>. Shanghai.
+subtitle: <a href='https://jhc.sjtu.edu.cn/about/overview/'>The John Hopcroft Center for Computer Science</a> @ <a href='https://en.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>. Shanghai.
 
 profile:
   align: right
@@ -20,5 +20,5 @@ social: true # includes social icons at the bottom of the page
 
 I am a tenure-track assistant professor in John Hopcroft Center for Computer Science at Shanghai Jiao Tong University. I obtained my Ph.D. in Computer Science from University of Rochester.
 
-During my Ph.D., I worked with [Prof. Yuhao Zhu](https://yuhaozhu.com/) who really shows me the intricacy and excitment of computer system and computer archtecture. My main research interest is about efficient and high-performance `Mobile Visual Computing`. This topic is not only about how machines perceive visual information, but also how machines present visual information to us! My current interests include but are not limited to in-sensor computing, point cloud-based computing and XR rendering. Please drop me an email if you are interested in working with me. 
+During my Ph.D., I worked with [Prof. Yuhao Zhu](https://yuhaozhu.com/) who shows me the intricacy and excitment of computer system and computer archtecture. My main research interest is about efficient and high-performance `Mobile Visual Computing`. This topic is not only about how machines perceive visual information, but also how machines present visual information to us! My current interests include but are not limited to in-sensor computing, point cloud-based computing and XR rendering. Please drop me an email if you are interested in working with me. 
 
