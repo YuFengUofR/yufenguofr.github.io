@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://jhc.sjtu.edu.cn/about/overview/'>The John Hopcroft Center for Computer Science</a> @ <a href='https://en.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>. Shanghai.
+subtitle: <a href='https://jhc.sjtu.edu.cn/about/overview/'>The John Hopcroft Center for Computer Science</a>@SJTU. Shanghai.
 
 profile:
   align: right
