@@ -1,6 +1,6 @@
 ---
 layout: about
-title: agbout
+title: about
 permalink: /
 subtitle: The John Hopcroft Center for Computer Science @ SJTU
 
