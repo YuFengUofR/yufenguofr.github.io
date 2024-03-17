@@ -9,7 +9,7 @@
       "position": "Tenure-Track Assistant Professor",
       "url": "",
       "startDate": "2024-03-01",
-      "endDate": "Present"
+      "endDate": "Now"
     },
     {
       "name": "Department of Computer Science, UofR",
@@ -51,15 +51,6 @@
       "endDate": "2023-08-01"
     },
     {
-      "institution": "University of Rochester, Rochester, US",
-      "location": "Rochester, US",
-      "url": "https://cs.rochester.edu/",
-      "area": "Computer Science",
-      "studyType": "Master",
-      "startDate": "2017-09-01",
-      "endDate": "2020-08-01"
-    },
-    {
       "institution": "Carnegie Mellon University, Pittsburgh, US",
       "location": "Pittsburgh, US",
       "url": "https://www.cmu.edu/",
@@ -73,7 +64,7 @@
       "location": "Tianjin, CHN",
       "url": "",
       "area": "Material Science",
-      "studyType": "Master",
+      "studyType": "Bachelor",
       "startDate": "2011-09-01",
       "endDate": "2015-06-16"
     }
