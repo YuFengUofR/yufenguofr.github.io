@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a tenure-track assistant professor in the [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn/about/overview/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I am also a member of the [Emerging Parallel Computing Center](http://epcc.sjtu.edu.cn/).
 
-Before joining SJTU, I obtained my Ph.D. in Computer Science from University of Rochester. During my Ph.D., I worked with [Prof. Yuhao Zhu](https://yuhaozhu.com/). My main research interest is about efficient and high-performance `Mobile Visual Computing`. This topic is not only about how machines perceive visual information, but also how machines present visual information to us! My current interests include but are not limited to in-sensor computing, point cloud-based computing and XR rendering.
+Before joining SJTU, I obtained my Ph.D. in Computer Science from University of Rochester. During my Ph.D., I worked with [Prof. Yuhao Zhu](https://yuhaozhu.com/). My main research interest is about efficient and high-performance [` Visual Computing`](https://en.wikipedia.org/wiki/Visual_computing). This topic is not only about how machines perceive visual information, but also how machines present visual information to us! My current interests include but are not limited to, designing software/hardware pipelines for neural rendering and accelerating large vision-language models.
 
 Please drop me an email if you are interested in working with me.
