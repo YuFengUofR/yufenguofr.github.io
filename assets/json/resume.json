@@ -75,6 +75,16 @@
       "date": "2022-03-16",
       "awarder": "IEEE VR Conference",
       "url": "https://virtual.ieeevis.org/year/2022/index.html"
-    }
+    },
+    {
+      "title": "Best Paper Nominee",
+      "date": "2024-10-17",
+      "awarder": "ICCD 2024 Program"
+    },
+    {
+      "title": "Best Paper Award",
+      "date": "2025-04-01",
+      "awarder": "ASPLOS 2025 Program"
+    },
   ]
 }
