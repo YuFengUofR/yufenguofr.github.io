@@ -79,12 +79,14 @@
     {
       "title": "Best Paper Nominee",
       "date": "2024-10-17",
-      "awarder": "ICCD 2024 Program"
+      "awarder": "ICCD 2024 Program",
+      "url": "https://iccd-conf.com/2024/bestpaper.html"
     },
     {
       "title": "Best Paper Award",
       "date": "2025-04-01",
-      "awarder": "ASPLOS 2025 Program"
+      "awarder": "ASPLOS 2025 Program",
+      "url": "https://www.asplos-conference.org/asplos2025/awards/"
     },
   ]
 }
