@@ -22,4 +22,4 @@ I am a tenure-track assistant professor in the [John Hopcroft Center for Compute
 
 Before joining SJTU, I obtained my Ph.D. in Computer Science from University of Rochester. During my Ph.D., I worked with [Prof. Yuhao Zhu](https://yuhaozhu.com/). My main research interest is about efficient and high-performance [` Visual Computing`](https://en.wikipedia.org/wiki/Visual_computing). This topic is not only about how machines perceive visual information, but also how machines present visual information to us! My current interests include but are not limited to, designing software/hardware pipelines for neural rendering and hardware acceleration for large vision-language models.
 
-Please do `NOT` randomly shoot me an email. I only consider PhD applicants with a background in `computer architecture or systems`. Please kindly ask deepseek or chatGPT what computer architecture is about before reaching out.
+Please do `NOT` randomly shoot me an email. I only consider PhD/Master/Postdoc applicants with a background in `computer architecture or system`. Please kindly ask deepseek or chatGPT what computer architecture is about before reaching out.
