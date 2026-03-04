@@ -31,6 +31,11 @@
             {% endif %}
             ><a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a></abbr
           >
+          {% if entry.award %}
+            <div class="award-text">
+            ⭐ {{ entry.award }}
+            </div>
+          {% endif %}
         {% else %}
           <abbr class="badge">{{ entry.abbr }}</abbr>
         {% endif %}
