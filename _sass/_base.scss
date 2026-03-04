@@ -699,8 +699,13 @@ footer.sticky-bottom {
       }
 
       .abbr {
-        height: 2rem;
+        height: auto;      // 关键：别写死 2rem
+        min-height: 2rem;  // 可选：保持至少一行高度
         margin-bottom: 0.5rem;
+
+        abbr.badge {
+          margin-bottom: 0.25rem; // 让两个 badge 之间有点缝
+        }
 
         abbr {
           display: inline-block;
