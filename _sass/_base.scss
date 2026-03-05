@@ -1156,25 +1156,13 @@ swiper-container {
   border-radius: 3px;
 }
 
-/* auto scroll news */
-.news.auto-scroll {
-  max-height: 320px;   /* 你想要的高度 */
-  overflow: hidden;    /* 关键：隐藏超出部分 */
+.news.auto-js-scroll {
+  max-height: 320px;
+  overflow: hidden;       // 关键：我们用 JS 控制内容位移，不用原生滚动条
   position: relative;
+  padding-top: 6px;       // 关键：防止第一行被裁掉
 }
 
-.news.auto-scroll .news-inner {
-  display: inline-block;
-  animation: news-marquee 12s linear infinite; /* 12s 可改慢一点 */
-}
-
-/* hover 暂停 */
-.news.auto-scroll:hover .news-inner {
-  animation-play-state: paused;
-}
-
-/* 向上滚动 */
-@keyframes news-marquee {
-  0%   { transform: translateY(0); }
-  100% { transform: translateY(-50%); }
+.news.auto-js-scroll .news-inner {
+  will-change: transform; // 更平滑
 }
