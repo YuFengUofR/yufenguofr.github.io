@@ -702,9 +702,17 @@ footer.sticky-bottom {
         height: auto;      // 关键：别写死 2rem
         min-height: 2rem;  // 可选：保持至少一行高度
         margin-bottom: 0.5rem;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        min-width: 120px;   // 原来没有，增加 badge 宽度
 
         abbr.badge {
-          margin-bottom: 0.25rem; // 让两个 badge 之间有点缝
+          margin-bottom: 0.25rem;
+          max-width: 200px;
+          white-space: normal;
+          word-break: break-word;
+          line-height: 1.2;
         }
 
         abbr {
@@ -723,6 +731,8 @@ footer.sticky-bottom {
         }
 
         .award {
+          margin-top: 0.25rem;
+          background-color: transparent;
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
         }
@@ -1129,4 +1139,42 @@ swiper-container {
   font-size: 0.85rem;
   font-weight: 600;
   color: #d32f2f;
+}
+
+.news {
+  max-height: 320px;
+  overflow-y: auto;
+  padding-right: 8px;
+}
+
+.news::-webkit-scrollbar {
+  width: 6px;
+}
+
+.news::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 3px;
+}
+
+/* auto scroll news */
+.news.auto-scroll {
+  max-height: 320px;   /* 你想要的高度 */
+  overflow: hidden;    /* 关键：隐藏超出部分 */
+  position: relative;
+}
+
+.news.auto-scroll .news-inner {
+  display: inline-block;
+  animation: news-marquee 12s linear infinite; /* 12s 可改慢一点 */
+}
+
+/* hover 暂停 */
+.news.auto-scroll:hover .news-inner {
+  animation-play-state: paused;
+}
+
+/* 向上滚动 */
+@keyframes news-marquee {
+  0%   { transform: translateY(0); }
+  100% { transform: translateY(-50%); }
 }
