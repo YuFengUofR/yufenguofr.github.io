@@ -1,0 +1,72 @@
+phd:
+  - name: Wenxuan Miao
+    topic: Software-Hardware Co-Design for Large Video Models
+    start: 2025
+    end: Present
+    website: 
+    pubs: ICLR'26, CVPR'26
+
+  - name: Haosong Liu
+    topic: Software-Hardware Co-Design for Large Video Models
+    start: 2025
+    pubs: ICLR'26
+
+  - name: Shuo Wu
+    topic: GPU Optimization on Large-Scale 3DGS
+    start: 2026
+    pubs: 
+
+  - name: Zeyu Guo
+    topic: Software-Hardware Co-Design for Embodied AI
+    start: 2026
+    pubs: 
+
+master:
+  - name: Xiaotong Huang
+    topic: GPU Optimization on Mobile Rendering
+    start: 2024
+    pubs: HPCA'26, CVPR'26
+
+  - name: Zheng Liu
+    topic: Software-Hardware Co-Design for Embodied AI
+    start: 2024
+    pubs: ASPLOS'25, ASPLOS'26
+
+  - name: Yuge Cheng
+    topic: GPU Optimization for Large Video Models
+    start: 2024
+    pubs: ISCA'25, ICLR'26
+
+  - name: He Zhu
+    topic: Software-Hardware Co-Design for 3DGS
+    start: 2025
+    pubs: HPCA'26, ASPLOS'26, CVPR'26
+
+
+undergrad:
+  - name: Zhiheng Dai
+    topic: 3DGS Optimization
+    start: 2025
+
+
+alumni:
+  - name: Chenqi Zhang
+    topic: 3DGS Acceleration
+    degree: Master
+    pubs: DAC'25
+
+  - name: Xinyang Li
+    topic: Large Video Models
+    degree: Bachelor
+    now: MIT PhD
+    pubs: ASPLOS'26, ICCAD'25
+
+  - name: Jie Jiang
+    degree: Bachelor
+    now: UCSD 2025 Summer Intern
+    pubs: ICCAD'25
+
+  - name: Yirun Wang
+    degree: Bachelor
+    now: UCSD 2026 Summer Intern
+    pubs:

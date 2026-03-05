@@ -1166,3 +1166,25 @@ swiper-container {
 .news.auto-js-scroll .news-inner {
   will-change: transform; // 更平滑
 }
+
+.team-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.team-list li {
+  margin-bottom: 0.6rem;
+  font-size: 1rem;
+}
+
+.team-topic {
+  font-size: 0.9rem;
+  opacity: 0.75;
+}
+
+.team-pubs {
+  margin-top: 2px;
+  margin-left: 1.2rem;
+  font-size: 0.8rem;
+  color: var(--global-text-color-light);
+}
