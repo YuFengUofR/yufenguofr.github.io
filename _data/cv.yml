@@ -49,6 +49,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Best Paper Candidate from ASPLOS'26
     - year: 2025
       items:
         - Best Paper Award from ASPLOS'25

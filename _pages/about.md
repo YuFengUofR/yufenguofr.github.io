@@ -24,4 +24,4 @@ Before joining SJTU, I received my Ph.D. in Computer Science from University of 
 
 Please do `NOT` randomly shoot me an email. I only consider PhD/Master/Postdoc applicants with a background in `computer architecture or system`. Please kindly ask deepseek or chatGPT what computer architecture is about before reaching out.
 
-`Note`: Currently, two Master’s positions for Fall 2026 admission are still available, and at least one PhD position and one Master’s position are expected to be available for Fall 2027 admission.
+`Note`: Currently, at least one PhD position and one Master’s position are expected to be available for Fall 2027 admission.
