@@ -4,12 +4,12 @@ phd:
     start: 2025
     end: Present
     website: 
-    pubs: ICLR'26, CVPR'26
+    pubs: ICLR'26, CVPR'26, MICRO'26
 
   - name: Haosong Liu
     topic: Software-Hardware Co-Design for Large Video Models
     start: 2025
-    pubs: ICLR'26
+    pubs: ICLR'26, MICRO'26
 
   - name: Shuo Wu
     topic: GPU Optimization on Large-Scale 3DGS
@@ -19,7 +19,7 @@ phd:
   - name: Zeyu Guo
     topic: Software-Hardware Co-Design for Embodied AI
     start: 2026
-    pubs: 
+    pubs: MICRO'26
 
 master:
   - name: Xiaotong Huang
@@ -30,7 +30,7 @@ master:
   - name: Zheng Liu
     topic: Software-Hardware Co-Design for Embodied AI
     start: 2024
-    pubs: ASPLOS'25, ASPLOS'26
+    pubs: ASPLOS'25, ASPLOS'26, MICRO'26
 
   - name: Yuge Cheng
     topic: GPU Optimization for Large Video Models
@@ -40,7 +40,22 @@ master:
   - name: He Zhu
     topic: Software-Hardware Co-Design for 3DGS
     start: 2025
-    pubs: HPCA'26, ASPLOS'26, CVPR'26
+    pubs: HPCA'26, ASPLOS'26, CVPR'26, ICCAD'26
+
+  - name: Qingyuan Tang
+    topic: GPU Optimization for 4DGS
+    start: 2026
+    pubs: 
+
+  - name: Shiqi Fan
+    topic: Software-Hardware Co-Design for Large Video Models
+    start: 2026
+    pubs: 
+
+  - name: Shiqi Fan
+    topic: Software-Hardware Co-Design for Large Video Models
+    start: 2026
+    pubs: 
 
 
 undergrad:
@@ -48,6 +63,17 @@ undergrad:
     topic: 3DGS Optimization
     start: 2025
 
+  - name: Zhengyang Cheng
+    topic: GPU Optimization for Embodied AI
+    start: 2026
+
+  - name: Hao Lou
+    topic: GPU Optimization for Embodied AI
+    start: 2026
+
+  - name: Qiyu Feng
+    topic: GPU Optimization for 4DGS
+    start: 2026
 
 alumni:
   - name: Chenqi Zhang
