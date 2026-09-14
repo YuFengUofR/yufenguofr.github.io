@@ -20,8 +20,10 @@ social: true # includes social icons at the bottom of the page
 
 I am a tenure-track assistant professor in the [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn/about/overview/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I am also a member of the [Institute of Advanced Computing](http://epcc.sjtu.edu.cn/).
 
-Before joining SJTU, I received my Ph.D. in Computer Science from University of Rochester. During my Ph.D., I worked with [Prof. Yuhao Zhu](https://yuhaozhu.com/). My main research interest is about efficient and high-performance [` Visual Computing`](https://en.wikipedia.org/wiki/Visual_computing). This topic is not only about how machines perceive visual information, but also how machines present visual information to us! My current research explores hardware/software co-design for emerging visual AI systems, with a focus on three directions: `Neural Rendering`, `Embodied AI`, and Large `Video-Language Models`.
+Before joining SJTU, I received my Ph.D. in Computer Science from University of Rochester. During my Ph.D., I worked with [Prof. Yuhao Zhu](https://yuhaozhu.com/). My primary research interest lies in building efficient, high-performance mobile systems. This topic is more exciting than ever, as emerging AI applications are fundamentally reshaping how mobile systems perceive, understand, and interact with the physical world. My current research explores hardware/software co-design for emerging visual AI systems, with a focus on three directions: `3D Spatial Computing`, `World-Action Model` in Embodied AI, and Large `Vision-Language Models`.
+
+My research has received an `ASPLOS 2025 Best Paper Award` and an `IEEE VR 2022 Best Paper Honorable Mention`. It has also been selected as a Best Paper Candidate at ISCA 2026, ASPLOS 2026, and ICCD 2024. I am also an ISCA/MICRO/ASPLOS Hall-of-Fame member.
 
 Please do `NOT` randomly shoot me an email. I only consider PhD/Master/Postdoc applicants with a background in `computer architecture or system`. Please kindly ask deepseek or chatGPT what computer architecture is about before reaching out.
 
-`Note`: Currently, at least one PhD position and one Master’s position are expected to be available for Fall 2027 admission.
+`Note`: Currently, `NO` PhD position is available for Fall 2027 admission. However, several Master’s position are available for Fall 2027 admission.
